@@ -7,9 +7,13 @@ This project showcases my practical experience in managing and planning social m
 ⭐ Project Includes:
 
 Facebook Profile
+
 Instagram Profile
+
 post designs
+
 Engagement & reach analysis
+
 Project Summary
 
 
